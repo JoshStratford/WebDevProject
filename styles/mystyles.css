@@ -1,0 +1,17 @@
+/*This will be applied to the about me and index pages*/
+
+h1{
+    font-family:papyrus;
+}
+
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.intro{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li{
+    padding-bottom: 10px;
+}

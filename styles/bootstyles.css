@@ -1,0 +1,9 @@
+/*This will be applied to the tableau page*/
+
+body{
+    background-color: beige;
+}
+
+.headCenter{
+    text-align: center;
+}
