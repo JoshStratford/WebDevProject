@@ -1,11 +1,11 @@
 /*This will be applied to the about me and index pages*/
 
 h1{
-    font-family:papyrus;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-h1{
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+.headCenter{
+    text-align: center;
 }
 
 .intro{
@@ -14,4 +14,37 @@ h1{
 
 li{
     padding-bottom: 10px;
+}
+
+.back2top{
+    color: #f6e1c5;
+}
+
+.linkcolor:hover{
+    color: rgb(96, 50, 21);
+}
+
+.videocaption{
+    font-size: small;
+}
+
+.aboutmecaption{
+    font-size: 0.925em;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.shrink{
+    font-size: 0.925em;
+    font-weight: bold;
+}
+
+.educationnotes{
+    padding-left: 10px;
+    line-height: 75%;
+}
+
+.WorkExpDescription{
+    padding-left: 10px;
+    font-size: 0.975em;
 }
